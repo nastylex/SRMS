@@ -1,0 +1,1 @@
+puts `python hello.py`
