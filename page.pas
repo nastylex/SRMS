@@ -93,7 +93,7 @@ begin
       3: SearchStudent;
     end;
 
-  until choice = 4;
+  until choice = 78;
 
   writeln('Program ended');
   readln;
